@@ -1,0 +1,7 @@
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\bin\Debug\SAT_solver.exe.config
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\bin\Debug\SAT_solver.exe
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\bin\Debug\SAT_solver.pdb
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\obj\Debug\SAT_solver.csprojAssemblyReference.cache
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\obj\Debug\SAT_solver.csproj.CoreCompileInputs.cache
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\obj\Debug\SAT_solver.exe
+C:\Users\Clarapuce\Desktop\UQAM\Algo\SAT_solver\SAT_solver\obj\Debug\SAT_solver.pdb
